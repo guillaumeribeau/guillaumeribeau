@@ -1,8 +1,8 @@
-Hello 👋
+## Hello 👋
 
 I'm Guillaume Ribeau, a front-end web developer based in Le Mans, France.
 
-Currently working on :
+#### **Currently working on** :
 
 Aqua-gest-reef: an application for people to manage their reef aquarium (ReactJs,Recharts,firebase)
 
