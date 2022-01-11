@@ -6,7 +6,7 @@ I'm Guillaume Ribeau, a front-end web developer based in Le Mans, France.
 
 Aqua-gest-reef: an application for people to manage their reef aquarium (ReactJs,Recharts,firebase)
 
-Open Classrooms: A work-study program, where I learn about JavaScript, React,D3.js...
+
 
 
 [![](https://raw.githubusercontent.com/guillaumeribeau/Profiles_card_template/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
